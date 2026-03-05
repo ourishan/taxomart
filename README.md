@@ -8,7 +8,7 @@
 
 [View the live project here](https://naziasiddique.github.io/milestoneV2/)
 
-This is an information-based website for an Accounting Firm based in Staffordshire, UK. The website features include a home page with a banner (the hero image), an 'About Us' page, the 'Services' page and a 'Contact Us' page. The main aim of the website is to provide information on the Accountancy Firm’s Services and to generate potential client leads – which is done through the ‘Contact Us’ call to action button available on the 'Home' and 'Contact Us' pages. 
+This is an information-based website for an Accounting Firm based in Noida, India. The website features include a home page with a banner (the hero image), an 'About Us' page, the 'Services' page and a 'Contact Us' page. The main aim of the website is to provide information on the Accountancy Firm’s Services and to generate potential client leads – which is done through the ‘Contact Us’ call to action button available on the 'Home' and 'Contact Us' pages. 
 
 
 ## Index – Table of Contents
@@ -57,7 +57,7 @@ This is an information-based website for an Accounting Firm based in Staffordshi
 ### The ‘ideal client’ for this business is:
 
 
-•	UK Based
+•	India Based
 
 •	Business owners – Private/Public Limited
 
@@ -73,7 +73,7 @@ This is an information-based website for an Accounting Firm based in Staffordshi
 ### Visitors to this website will be searching for the following keywords/phrases:
 
 
-•	Accountancy Firm in the Midlands/Staffordshire/UK
+•	Accountancy Firm in the India
 
 •	Accounting Firms Near Me
 
