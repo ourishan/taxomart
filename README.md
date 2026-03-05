@@ -85,7 +85,7 @@ This is an information-based website for an Accounting Firm based in Staffordshi
 
 •	Keep on top of expenses
 
-•	VAT
+•	GST
 
 •	Payroll
 
@@ -218,13 +218,13 @@ The website has a contact page for new cvisitors or potential clients to easily 
 
 •	Add CAPTCHA to Contact Form – this will protect the company from being spammed (requires JavaScript)
 
-•	Useful Forms/Documents Downloads – this will increase traffic to website and give any visitors additional resources to Tax Return/VAT/How To forms & documents, that they may find hard to locate otherwise 
+•	Useful Forms/Documents Downloads – this will increase traffic to website and give any visitors additional resources to Tax Return/GST/How To forms & documents, that they may find hard to locate otherwise 
 
 •	Pricing Information – this could be set up as a separate page or part of the Services page as an additional form with drop down options. This will allow any potential clients to input the exact nature of their organisation/business and give an estimated price of the services based on their answers (will need JavaScript for pop-ups, animations, and the ability to select packages and register details or sign up)
 
 •	Contact Form Send Button – currently the Send button options sends the form to a dump site- JavaScript is needed to send directly to company inbox
 
-•	VAT Calculator – this will be useful for potential/existing clients who are looking for a quick method of working out the tax owed in line with government policies (this will require JavaScript/Python)
+•	GST Calculator – this will be useful for potential/existing clients who are looking for a quick method of working out the tax owed in line with government policies (this will require JavaScript/Python)
 
 •	FAQ Page – this will give potential clients answers to the most asked questions via a table with FAQs and dropdown buttons to view answers (JavaScript required for dropdown functionality)
 
