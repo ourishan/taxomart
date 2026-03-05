@@ -420,12 +420,12 @@ git clone https://github.com/USERNAME/REPOSITORY
 ## Acknowledgements
 
 **Content**
-•	The text for all the pages of the website was provided by Usman Ali
+•	The text for all the pages of the website was provided by CA Nikhil Kumar
 
-•	The text was proof-read/edited by Usman Ali
+•	The text was proof-read/edited by CA Nikhil Kumar
 
 **Media**
-•	All the photos used in this site were obtained from the company director – Usman Ali
+•	All the photos used in this site were obtained from the company director – CA Nikhil Kumar
 
 **Code**
 •	All code on this website is my own
