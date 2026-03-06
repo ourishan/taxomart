@@ -59,7 +59,7 @@ This is an information-based website for an Accounting Firm based in Noida, Indi
 
 •	India Based
 
-•	Business owners – Private/Public Limited
+•	Business owners – Private/Public 
 
 •	Sole traders
 
