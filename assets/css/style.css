@@ -692,7 +692,7 @@ h2 .title {
 }
 
 .footer-section {
-  background: #111111;
+  /* background: #111111; */
   padding: 50px 0px;
 }
 
@@ -706,19 +706,19 @@ h2 .title {
 
 .footer-section .center-menu .icon-part i {
   font-size: 32px;
-  color: #fff;
+  color: #000;
   display: inline-block;
   margin-right: 10px;
 }
 
 .footer-section .center-menu .icon-part a {
   font-size: 19px;
-  color: #fff;
+  color: #000;
 }
 
 .footer-section .center-menu .icon-part p {
   font-size: 19px;
-  color: #fff;
+  color: #000;
   margin: 0px;
   display: inline-block;
 }
@@ -734,7 +734,7 @@ h2 .title {
 
 .footer-menu ul li a {
   font-size: 13px;
-  color: #ffffff;
+  color: #000;
   font-weight: 700;
   line-height: 20px;
   display: block;
@@ -787,14 +787,14 @@ h2 .title {
   display: block;
 }
 .footer-section p {
-  color: #fff !important;
+  color: #000 !important;
 }
 .form-group span.label-icon {
   color: #ff0000;
   display: inline-block;
 }
 .footer-section i.fa.fa-map-marker {
-  color: #fff !important;
+  color: #000 !important;
 }
 
 .map-section {
